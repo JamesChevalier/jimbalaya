@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h2>{{page.title}}</h2>
+<hr>
+
+{% for post in site.posts %}
+  {% for category in post.categories %}
+    {% if category == page.category %}
+      <div class="row">
+        <div class="small-2 columns">
+          <a href="{{ post.url }}"><span class="radius secondary label">{{ post.date | date_to_string }}</span></a>
+        </div>
+        <div class="small-10 columns">
+          <a href="{{ post.url }}"><h5>{{ post.title }}</h5></a>
+        </div>
+      <hr>
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endfor %}

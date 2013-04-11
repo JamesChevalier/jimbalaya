@@ -1,0 +1,11 @@
+# baseurl: http://jimbalaya.us
+exclude: [Gemfile, Gemfile.lock, Rakefile, README.md]
+lsi: true
+markdown: kramdown
+permalink: /:title
+pygments: true
+url: http://jimbalaya.us
+name: Jimbalaya
+description: >
+  I cut music up into pieces, and then I
+  put the pieces back together my way.

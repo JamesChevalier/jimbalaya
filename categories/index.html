@@ -1,0 +1,33 @@
+---
+layout: default
+title: Categories
+---
+<h2>{{page.title}}</h2>
+<hr>
+
+{% capture n  %}{{ site.categories | size | divided_by:3}}{% endcapture %}
+{% capture m %} {{ n | times:2 }}{% endcapture %}
+
+<div class="row">
+  <div class="small-4 columns">
+    <p>
+      {% for category in site.categories limit:n %}
+        <a href="/category/{{ category[0] }}" title="View posts categorized with &quot;{{ category[0] }}&quot;"><span class="radius label">{{ category[0] }}</span></a><br />
+      {% endfor %}
+    </p>
+  </div>
+  <div class="small-4 columns">
+    <p>
+      {% for category in site.categories limit:n offset:n %}
+        <a href="/category/{{ category[0] }}" title="View posts categorized with &quot;{{ category[0] }}&quot;"><span class="radius label">{{ category[0] }}</span></a><br />
+      {% endfor %}
+    </p>
+  </div>
+  <div class="small-4 columns">
+    <p>
+      {% for category in site.categories limit:n offset:m %}
+        <a href="/category/{{ category[0] }}" title="View posts categorized with &quot;{{ category[0] }}&quot;"><span class="radius label">{{ category[0] }}</span></a><br />
+      {% endfor %}
+    </p>
+  </div>
+</div>

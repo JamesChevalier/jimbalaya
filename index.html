@@ -1,0 +1,18 @@
+---
+layout: default
+title: I cut music up into pieces, and then I put the pieces back together my way.
+---
+{% for post in site.posts %}
+<div class="row">
+  <div class="small-12 columns">
+    <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+    <p>
+      <a href="{{ post.url }}"><span class="radius secondary label">{{ post.date | date_to_string }}</span></a>
+      {% for category in post.categories %}
+        <a href="/category/{{ category }}" title="View posts categorized with &quot;{{ category }}&quot;"><span class="radius label">{{ category }}</span></a>
+      {% endfor %}
+    </p>
+  </div>
+<hr>
+</div>
+{% endfor %}

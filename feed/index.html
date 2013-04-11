@@ -1,0 +1,33 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  >
+<channel>
+  <title type="text" xml:lang="en">Jimbalaya</title>
+  <link>http://jimbalaya.us</link>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://jimbalaya.us</id>
+  <author>
+    <name>Jimbalaya</name>
+  </author>
+  <rights>Copyright (c) 2011-2013 Jimbalaya</rights>
+  {% for post in site.posts limit:20 %}
+  <item>
+    <title>{{ post.title }}</title>
+    <link>http://jimbalaya.us{{ post.url }}/</link>
+
+    <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>http://jimbalaya.us{{ post.url }}/</id>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </item>
+  {% endfor %}
+</channel>
+</rss>
