@@ -4,7 +4,7 @@ My blog is designed with [Zurb Foundation](http://foundation.zurb.com). It's aut
 
 Everything in `_site/`, `_audio/` and some of the stuff in `assets/` is mine. The rest of the stuff is either somebody else's, or free for you to use.
 
-Careful downloading/cloning this repository - that `_audio` folder is a coule gigabytes of data.
+Careful downloading/cloning this repository - that `_audio` folder is a couple gigabytes of data.
 
 ### Rake Tasks
 
