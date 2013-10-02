@@ -78,7 +78,7 @@ Here's the fifth episode of Jimbalaya's Podcast. Enjoy (or else)!
  [25]: http://www.last.fm/music/Jaylib/Champion Sound/Raw Shit (feat. Talib Kweli) "Raw Shit (Featuring Talib Kweli)"
  [26]: http://www.discogs.com/artist/Prefuse 73 "Prefuse 73"
  [27]: http://www.last.fm/music/Prefuse 73/One Word Extinguisher "One Word Extinguisher"
- [28]: http://www.discogs.com/artist/Rustie "Rustie"
+ [28]: https://itunes.apple.com/us/artist/rustie/id269380425?uo=4&at=11l4TK "Rustie on iTunes"
  [29]: http://www.last.fm/music/Rustie/_/Cafe de Phresh (Instrumental) "Cafe de Phresh (Instrumental)"
  [30]: http://www.discogs.com/artist/Erykah Badu "Erykah Badu"
  [31]: http://www.last.fm/music/Erykah Badu/_/The Healer "The Healer"

@@ -128,7 +128,7 @@ Here's the second episode of Jimbalaya's Podcast; an upbeat mix that's perfect f
  [27]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=35755079%26id=35755240%26s=143441 "G.O.L. on iTunes"
  [28]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=35755079%26id=35755240%26s=143441 "Angelica In Delirium on iTunes"
  [29]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=6729476%26id=6729482%26s=143441 "Shambala on iTunes"
- [30]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=2726541 "Thunderball on iTunes"
+ [30]: https://itunes.apple.com/us/artist/thunderball/id2726541?uo=4&at=11l4TK "Thunderball on iTunes"
  [31]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=184029112%26id=184028744%26s=143441 "Stereo Tonic on iTunes"
  [32]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=3169699 "Q-Burns Abstract Message on iTunes"
 
@@ -173,7 +173,7 @@ Here's the second episode of Jimbalaya's Podcast; an upbeat mix that's perfect f
 > Fellowship – Divided Soul
 > Amen Andrews – 1000001 Style
 
- [45]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=3631576 "The Cinematic Orchestra on iTunes"
+ [45]: https://itunes.apple.com/us/artist/the-cinematic-orchestra/id3631576?uo=4&at=11l4TK "The Cinematic Orchestra on iTunes"
  [46]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=156671751%26id=156671626%26s=143441 "Channel 1 Suite on iTunes"
 
 Podcast: [Play in new window][47] | [Download][48]{: .radius .button}

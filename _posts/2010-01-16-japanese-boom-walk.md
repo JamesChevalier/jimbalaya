@@ -31,7 +31,7 @@ This is my fourth entry for the [RPM Challenge][2]. Jimbalaya's jungle jazz juic
  [10]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=45392916 "Sharon Jones & The Dap-Kings on iTunes"
  [11]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=159779723%26id=159778771%26s=143441 "Casela Walk on iTunes"
  [12]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=2727610 "Blue States on iTunes"
- [13]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=2900925 "Roots Manuva on iTunes"
+ [13]: https://itunes.apple.com/us/artist/roots-manuva/id2900925?uo=4&at=11l4TK "Roots Manuva on iTunes"
 
 <p><audio src='/audio/creations/Jimbalaya-RPM_Challenge_2008-04-Japanese_Boom_Walk.mp3' preload='auto' /></p>
 

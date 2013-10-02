@@ -69,7 +69,7 @@ Here's the eighth episode of Jimbalaya's Podcast. This one comes complete with j
  [14]: http://www.last.fm/music/Sister Nancy/_/Big Beat Bam "Big Beat Bam"
  [15]: http://www.discogs.com/artist/Big Youth "Big Youth"
  [16]: http://www.last.fm/music/Big Youth/_/Waterhouse Rock "Waterhouse Rock"
- [17]: http://www.discogs.com/artist/Thievery Corporation "Thievery Corporation"
+ [17]: https://itunes.apple.com/us/artist/thievery-corporation/id2726532?uo=4&at=11l4TK "Thievery Corporation on iTunes"
  [18]: http://www.last.fm/music/Thievery Corporation/_/.38.45 (A Thievery Number) ".38.45 (A Thievery Number)"
  [19]: http://www.discogs.com/artist/Barrington Levy "Barrington Levy"
  [20]: http://www.last.fm/music/Barrington Levy/_/Black Roses "Black Roses"
