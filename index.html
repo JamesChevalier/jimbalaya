@@ -1,18 +1,991 @@
----
-layout: default
-title: I cut music up into pieces, and then I put the pieces back together my way.
----
-{% for post in site.posts %}
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Jimbalaya | I cut music up into pieces, and then I put the pieces back together my way.</title>
+  <link rel="stylesheet" href="/assets/css/normalize.css" />
+  <link rel="stylesheet" href="/assets/css/foundation.min.css" />
+  <script src="/assets/js/vendor/custom.modernizr.js"></script>
+  <script src="/assets/js/vendor/audiojs/audio.min.js"></script>
+
+  <style type="text/css">
+    body,html{height:100%;}
+    body{background: url(http://jimbalaya.us/assets/images/bg.jpg) center center fixed no-repeat;-moz-background-size: cover;background-size: cover;}
+    div.panel{-moz-border-radius: 12px;-webkit-border-radius: 12px;border-radius: 12px;background: rgb(255,255,255);background: rgba(255,255,255,.8);}
+  </style>
+
+  <script>
+    audiojs.events.ready(function() {
+      var as = audiojs.createAll();
+    });
+  </script>
+
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6651820-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+</head>
+<body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=162918717057434";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <nav class="top-bar">
+    <ul class="title-area">
+      <!-- Title Area -->
+      <li class="name">
+        <h1><a href="http://jimbalaya.us">Jimbalaya</a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+      <!-- Left Nav Section -->
+      <ul class="left">
+        <li class="divider"></li>
+        <li><a href="/about">About</a></li>
+        <li class="divider"></li>
+        <li class="has-dropdown"><a href="/categories">Categories</a>
+          <ul class="dropdown">
+            <li><a href="/category/creations/">Creations</a></li>
+            <li><a href="/category/found-sounds/">Found Sounds</a></li>
+            <li><a href="/category/introductions/">Introductions</a></li>
+            <li><a href="/category/mixes/">Mixes</a></li>
+            <li><a href="/category/podcast/">Podcast</a></li>
+            <li><a href="/category/scribbles/">Scribbles</a></li>
+            <li><a href="/category/thoughts/">Thoughts</a></li>
+          </ul>
+        </li>
+        <li class="divider"></li>
+      </ul>
+
+      <!-- Right Nav Section -->
+      <ul class="right">
+        <li class="divider"></li>
+        <li><a href="https://www.facebook.com/JimbalayaMusic">Facebook</a></li>
+        <li class="divider"></li>
+        <li><a href="/feed"><img src="/assets/images/rss.png" alt="RSS" /></a></li>
+      </ul>
+    </section>
+  </nav>
+
+  <div class="row" style="margin-top:67px;">
+    <div class="small-9 columns">
+      <div class="panel">
+        
 <div class="row">
   <div class="small-12 columns">
-    <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+    <a href="/mixes/the-good-the-bad-and-the-lovely/"><h4>The Good, the Bad and the Lovely</h4></a>
     <p>
-      <a href="{{ post.url }}"><span class="radius secondary label">{{ post.date | date_to_string }}</span></a>
-      {% for category in post.categories %}
-        <a href="/category/{{ category }}" title="View posts categorized with &quot;{{ category }}&quot;"><span class="radius label">{{ category }}</span></a>
-      {% endfor %}
+      <a href="/mixes/the-good-the-bad-and-the-lovely/"><span class="radius secondary label">13 Mar 2012</span></a>
+      
+        <a href="/category/mixes" title="View posts categorized with &quot;mixes&quot;"><span class="radius label">mixes</span></a>
+      
     </p>
   </div>
 <hr>
 </div>
-{% endfor %}
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/fireworks5/"><h4>Fireworks5</h4></a>
+    <p>
+      <a href="/found-sounds/fireworks5/"><span class="radius secondary label">02 Dec 2011</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/fireworks4/"><h4>Fireworks4</h4></a>
+    <p>
+      <a href="/found-sounds/fireworks4/"><span class="radius secondary label">02 Dec 2011</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/fireworks-and-happy-kids/"><h4>Fireworks And Happy Kids</h4></a>
+    <p>
+      <a href="/found-sounds/fireworks-and-happy-kids/"><span class="radius secondary label">02 Dec 2011</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/fireworks-and-crying-kids/"><h4>Fireworks And Crying Kids</h4></a>
+    <p>
+      <a href="/found-sounds/fireworks-and-crying-kids/"><span class="radius secondary label">02 Dec 2011</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/fireworks-and-cheers/"><h4>Fireworks And Cheers</h4></a>
+    <p>
+      <a href="/found-sounds/fireworks-and-cheers/"><span class="radius secondary label">02 Dec 2011</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/cat-purr/"><h4>Cat Purr</h4></a>
+    <p>
+      <a href="/found-sounds/cat-purr/"><span class="radius secondary label">02 Dec 2011</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/smooth-celloriminal/"><h4>Smooth Celloriminal</h4></a>
+    <p>
+      <a href="/creations/smooth-celloriminal/"><span class="radius secondary label">13 Aug 2011</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/introductions/cocaine-barbecue/"><h4>Cocaine Barbecue</h4></a>
+    <p>
+      <a href="/introductions/cocaine-barbecue/"><span class="radius secondary label">16 Jun 2011</span></a>
+      
+        <a href="/category/introductions" title="View posts categorized with &quot;introductions&quot;"><span class="radius label">introductions</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/camera-powering-on/"><h4>Camera Powering On</h4></a>
+    <p>
+      <a href="/found-sounds/camera-powering-on/"><span class="radius secondary label">03 May 2011</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/thoughts/sneak-peak-of-the-new-mix/"><h4>Sneak Peak of the New Mix</h4></a>
+    <p>
+      <a href="/thoughts/sneak-peak-of-the-new-mix/"><span class="radius secondary label">26 Apr 2011</span></a>
+      
+        <a href="/category/thoughts" title="View posts categorized with &quot;thoughts&quot;"><span class="radius label">thoughts</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/unsure/"><h4>Unsure</h4></a>
+    <p>
+      <a href="/found-sounds/unsure/"><span class="radius secondary label">31 Jul 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/lets-go-red-sox/"><h4>Let&#8217;s Go Red Sox</h4></a>
+    <p>
+      <a href="/found-sounds/lets-go-red-sox/"><span class="radius secondary label">31 Jul 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/homerun/"><h4>Homerun</h4></a>
+    <p>
+      <a href="/found-sounds/homerun/"><span class="radius secondary label">31 Jul 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/grand-slam/"><h4>Grand Slam</h4></a>
+    <p>
+      <a href="/found-sounds/grand-slam/"><span class="radius secondary label">31 Jul 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/fenway-crowd/"><h4>Fenway Crowd</h4></a>
+    <p>
+      <a href="/found-sounds/fenway-crowd/"><span class="radius secondary label">31 Jul 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/disappointment/"><h4>Disappointment</h4></a>
+    <p>
+      <a href="/found-sounds/disappointment/"><span class="radius secondary label">31 Jul 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/crowd-woah/"><h4>Crowd &#8211; Woah</h4></a>
+    <p>
+      <a href="/found-sounds/crowd-woah/"><span class="radius secondary label">31 Jul 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/wallpaper3/"><h4>Wallpaper3</h4></a>
+    <p>
+      <a href="/found-sounds/wallpaper3/"><span class="radius secondary label">08 Feb 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/wallpaper2/"><h4>Wallpaper2</h4></a>
+    <p>
+      <a href="/found-sounds/wallpaper2/"><span class="radius secondary label">08 Feb 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/wallpaper1/"><h4>Wallpaper1</h4></a>
+    <p>
+      <a href="/found-sounds/wallpaper1/"><span class="radius secondary label">08 Feb 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/doorbell/"><h4>Doorbell</h4></a>
+    <p>
+      <a href="/found-sounds/doorbell/"><span class="radius secondary label">29 Jan 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/poison-bucket-7/"><h4>Poison Bucket</h4></a>
+    <p>
+      <a href="/found-sounds/poison-bucket-7/"><span class="radius secondary label">18 Jan 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/poison-bucket-2-2/"><h4>Poison Bucket 2</h4></a>
+    <p>
+      <a href="/found-sounds/poison-bucket-2-2/"><span class="radius secondary label">18 Jan 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/found-sounds/bar-ambiance-2/"><h4>Bar Ambiance</h4></a>
+    <p>
+      <a href="/found-sounds/bar-ambiance-2/"><span class="radius secondary label">18 Jan 2010</span></a>
+      
+        <a href="/category/found-sounds" title="View posts categorized with &quot;found-sounds&quot;"><span class="radius label">found-sounds</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/thoughts/whats-up/"><h4>What&#8217;s Up?</h4></a>
+    <p>
+      <a href="/thoughts/whats-up/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/thoughts" title="View posts categorized with &quot;thoughts&quot;"><span class="radius label">thoughts</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/touching-the-summersweet-moon/"><h4>Touching The SummerSweet Moon</h4></a>
+    <p>
+      <a href="/creations/touching-the-summersweet-moon/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/mixes/this-is-jazz-club/"><h4>This Is&#8230; Jazz Club</h4></a>
+    <p>
+      <a href="/mixes/this-is-jazz-club/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/mixes" title="View posts categorized with &quot;mixes&quot;"><span class="radius label">mixes</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/introductions/the-vanbowlski-brothers/"><h4>The Vanbowlski Brothers</h4></a>
+    <p>
+      <a href="/introductions/the-vanbowlski-brothers/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/introductions" title="View posts categorized with &quot;introductions&quot;"><span class="radius label">introductions</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/the-hoo-hah/"><h4>The Hoo Hah</h4></a>
+    <p>
+      <a href="/creations/the-hoo-hah/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/mixes/the-got-up-and-went/"><h4>The Got Up And Went</h4></a>
+    <p>
+      <a href="/mixes/the-got-up-and-went/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/mixes" title="View posts categorized with &quot;mixes&quot;"><span class="radius label">mixes</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/the-contoured-tears-of-a-clown/"><h4>The Contoured Tears Of A Clown</h4></a>
+    <p>
+      <a href="/creations/the-contoured-tears-of-a-clown/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/take-me-in-your-sweet-dreams/"><h4>Take Me In Your Sweet Dreams</h4></a>
+    <p>
+      <a href="/creations/take-me-in-your-sweet-dreams/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/shake-tip-breathe/"><h4>Shake Tip Breathe</h4></a>
+    <p>
+      <a href="/scribbles/shake-tip-breathe/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/running-in-my-dreams/"><h4>Running In My Dreams</h4></a>
+    <p>
+      <a href="/creations/running-in-my-dreams/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/rolling-the-bones/"><h4>Rolling The Bones</h4></a>
+    <p>
+      <a href="/creations/rolling-the-bones/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/my-son-is-disrespectful/"><h4>My Son (Is Disrespectful)</h4></a>
+    <p>
+      <a href="/creations/my-son-is-disrespectful/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/mechanical-melancholia/"><h4>Mechanical Melancholia</h4></a>
+    <p>
+      <a href="/creations/mechanical-melancholia/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/introductions/keep-the-groove/"><h4>Keep The Groove</h4></a>
+    <p>
+      <a href="/introductions/keep-the-groove/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/introductions" title="View posts categorized with &quot;introductions&quot;"><span class="radius label">introductions</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-08-thats-rich/"><h4>Jimbalaya Presents&#8230; 08: That&#8217;s Rich</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-08-thats-rich/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-07-tastes-like-chicken/"><h4>Jimbalaya Presents&#8230; 07: Tastes Like Chicken</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-07-tastes-like-chicken/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-06-open-twenty-four-hours/"><h4>Jimbalaya Presents&#8230; 06: Open Twenty Four Hours</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-06-open-twenty-four-hours/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-05-no-substitutions/"><h4>Jimbalaya Presents&#8230; 05: No Substitutions</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-05-no-substitutions/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-04-a-little-gamey/"><h4>Jimbalaya Presents&#8230; 04: A Little Gamey</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-04-a-little-gamey/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-03-scattered-spread/"><h4>Jimbalaya Presents&#8230; 03: Scattered Spread</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-03-scattered-spread/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-02-the-got-up-and-went/"><h4>Jimbalaya Presents&#8230; 02: The Got Up And Went</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-02-the-got-up-and-went/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/podcast/jimbalaya-presents-01-couch-surfing/"><h4>Jimbalaya Presents... 01: Couch Surfing</h4></a>
+    <p>
+      <a href="/podcast/jimbalaya-presents-01-couch-surfing/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/podcast" title="View posts categorized with &quot;podcast&quot;"><span class="radius label">podcast</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/japanese-boom-walk/"><h4>Japanese Boom Walk</h4></a>
+    <p>
+      <a href="/creations/japanese-boom-walk/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/i-think-i-got-the-grapevine/"><h4>I Think I Got The Grapevine</h4></a>
+    <p>
+      <a href="/creations/i-think-i-got-the-grapevine/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/eating-fish-in-the-octopus-garden/"><h4>Eating Fish In The Octopus&#8217; Garden</h4></a>
+    <p>
+      <a href="/creations/eating-fish-in-the-octopus-garden/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/delusional-grunt/"><h4>Delusional Grunt</h4></a>
+    <p>
+      <a href="/creations/delusional-grunt/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/mixes/couch-surfing/"><h4>Couch Surfing</h4></a>
+    <p>
+      <a href="/mixes/couch-surfing/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/mixes" title="View posts categorized with &quot;mixes&quot;"><span class="radius label">mixes</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/chocolate-cake/"><h4>Chocolate Cake</h4></a>
+    <p>
+      <a href="/creations/chocolate-cake/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/introductions/caveman-on-campus/"><h4>Caveman On Campus</h4></a>
+    <p>
+      <a href="/introductions/caveman-on-campus/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/introductions" title="View posts categorized with &quot;introductions&quot;"><span class="radius label">introductions</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/creations/but-ive-never-heard-anything-like-this/"><h4>But I&#8217;ve Never Heard Anything Like This</h4></a>
+    <p>
+      <a href="/creations/but-ive-never-heard-anything-like-this/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/creations" title="View posts categorized with &quot;creations&quot;"><span class="radius label">creations</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/barely-4/"><h4>Barely 4</h4></a>
+    <p>
+      <a href="/scribbles/barely-4/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/introductions/another-swank-evening-at-wayne-manor/"><h4>Another Swank Evening At Wayne Manor</h4></a>
+    <p>
+      <a href="/introductions/another-swank-evening-at-wayne-manor/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/introductions" title="View posts categorized with &quot;introductions&quot;"><span class="radius label">introductions</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/almost-7/"><h4>Almost 7</h4></a>
+    <p>
+      <a href="/scribbles/almost-7/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/mixes/agoyagev/"><h4>Agoyagev</h4></a>
+    <p>
+      <a href="/mixes/agoyagev/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/mixes" title="View posts categorized with &quot;mixes&quot;"><span class="radius label">mixes</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/introductions/a-million-miles-from-reality/"><h4>A Million Miles From Reality</h4></a>
+    <p>
+      <a href="/introductions/a-million-miles-from-reality/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/introductions" title="View posts categorized with &quot;introductions&quot;"><span class="radius label">introductions</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/5743-at-90/"><h4>57,43 at 90</h4></a>
+    <p>
+      <a href="/scribbles/5743-at-90/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/4-plus/"><h4>4 Plus</h4></a>
+    <p>
+      <a href="/scribbles/4-plus/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/3549/"><h4>3549</h4></a>
+    <p>
+      <a href="/scribbles/3549/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/3-point-5/"><h4>3 Point 5</h4></a>
+    <p>
+      <a href="/scribbles/3-point-5/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+<div class="row">
+  <div class="small-12 columns">
+    <a href="/scribbles/2555/"><h4>2555</h4></a>
+    <p>
+      <a href="/scribbles/2555/"><span class="radius secondary label">16 Jan 2010</span></a>
+      
+        <a href="/category/scribbles" title="View posts categorized with &quot;scribbles&quot;"><span class="radius label">scribbles</span></a>
+      
+    </p>
+  </div>
+<hr>
+</div>
+
+
+      </div>
+    </div>
+    <div class="small-3 columns">
+      <div class="panel">
+        <h4 style="text-align:center;">Likes</h4>
+        <div class="fb-like-box" data-href="https://www.facebook.com/JimbalayaMusic" data-width="184" data-show-faces="true" data-stream="false" data-border-color="#ddd" data-header="false"></div>
+        <p><br /></p>
+        <h4 style="text-align:center;">Listens</h4>
+        <p style="text-align:center;"><a href="http://www.last.fm/user/Jimbalaya/?chartstyle=bex" style="text-align:center;" target="_blank"><img src="http://imagegen.last.fm/bex/artists/10/Jimbalaya.gif" border="0" /></a></p>
+
+        <h3 style="text-align:center;">Links</h3>
+        <ul class="side-nav">
+          <li><a href="http://www.bmbx.org/" class="small radius success button" target="_blank">bmbx</a></li>
+          <li><a href="http://jameschevalier.us" class="small radius success button" target="_blank">James Chevalier</a></li>
+          <li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=301986746" class="small radius success button" target="_blank">Jimbalaya Presents</a></li>
+          <li><a href="http://megatrip.blogspot.com/" class="small radius success button" target="_blank">King Megatrip</a></li>
+          <li><a href="http://onetaketapes.com/" class="small radius success button" target="_blank">One Take Tapes</a></li>
+          <li><a href="http://www.rpmchallenge.com/" class="small radius success button" target="_blank">RPM Challenge</a></li>
+          <li><a href="http://www.themixingbowl.org/" class="small radius success button" target="_blank">The Mixing Bowl</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script>
+  document.write('<script src=' +
+  ('__proto__' in {} ? '/assets/js/vendor/zepto' : '/assets/js/vendor/jquery') +
+  '.js><\/script>')
+  </script>
+
+  <script src="/assets/js/foundation.min.js"></script>
+  <!--
+  <script src="/assets/js/foundation/foundation.js"></script>
+  <script src="/assets/js/foundation/foundation.alerts.js"></script>
+  <script src="/assets/js/foundation/foundation.clearing.js"></script>
+  <script src="/assets/js/foundation/foundation.cookie.js"></script>
+  <script src="/assets/js/foundation/foundation.dropdown.js"></script>
+  <script src="/assets/js/foundation/foundation.forms.js"></script>
+  <script src="/assets/js/foundation/foundation.joyride.js"></script>
+  <script src="/assets/js/foundation/foundation.magellan.js"></script>
+  <script src="/assets/js/foundation/foundation.orbit.js"></script>
+  <script src="/assets/js/foundation/foundation.placeholder.js"></script>
+  <script src="/assets/js/foundation/foundation.reveal.js"></script>
+  <script src="/assets/js/foundation/foundation.section.js"></script>
+  <script src="/assets/js/foundation/foundation.tooltips.js"></script>
+  <script src="/assets/js/foundation/foundation.topbar.js"></script>
+  -->
+
+  <script>
+    $(document).foundation();
+  </script>
+</body>
+</html>
