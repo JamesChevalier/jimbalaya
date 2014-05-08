@@ -1,9 +1,8 @@
 # baseurl: http://jimbalaya.us
 exclude: [Gemfile, Gemfile.lock, Rakefile, README.md]
-lsi: true
 markdown: kramdown
 permalink: /:title
-pygments: true
+highlighter: pygments
 url: http://jimbalaya.us
 name: Jimbalaya
 description: >
