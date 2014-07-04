@@ -7,7 +7,7 @@ homepagepodPressPostSpecific:
   - 'a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:10:"##Global##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}'
 enclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_01_-_Couch_Surfing.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_01_-_Couch_Surfing.mp3
     114023091
     audio/mpeg
     a:4:{s:8:"duration";s:8:"00:59:16";s:8:"subtitle";s:32:"Can I start you out with drinks?";s:7:"summary";s:861:"This is the first episode of Jimbalaya's Podcast; a down tempo mix that's perfect for sitting around and doing nothing to. With a drink in your hand.

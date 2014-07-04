@@ -5,7 +5,7 @@ layout: post
 permalink: /podcast/jimbalaya-presents-05-no-substitutions/
 homepageenclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_05_-_No_Substitutions.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_05_-_No_Substitutions.mp3
     100477682
     audio/mpeg
     a:4:{s:8:"duration";s:8:"00:52:13";s:8:"subtitle";s:30:"Chew with your mouth closed...";s:7:"summary";s:717:"Here's the fifth episode of Jimbalaya's Podcast. Enjoy (or else)!

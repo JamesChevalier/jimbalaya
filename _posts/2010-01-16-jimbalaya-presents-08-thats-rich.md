@@ -5,7 +5,7 @@ layout: post
 permalink: /podcast/jimbalaya-presents-08-thats-rich/
 homepageenclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_08_-_Thats_Rich.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_08_-_Thats_Rich.mp3
     122219082
     audio/mpeg
     a:4:{s:8:"duration";s:8:"01:03:32";s:8:"subtitle";s:19:"Time for dessert...";s:7:"summary";s:711:"Here's the eighth episode of Jimbalaya's Podcast. This one comes complete with jerk seasoning.

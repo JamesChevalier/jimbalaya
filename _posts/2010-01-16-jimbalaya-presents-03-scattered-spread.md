@@ -5,7 +5,7 @@ layout: post
 permalink: /podcast/jimbalaya-presents-03-scattered-spread/
 homepageenclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_03_-_Scattered_Spread.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_03_-_Scattered_Spread.mp3
     110882034
     audio/mpeg
     a:4:{s:8:"duration";s:8:"00:57:38";s:8:"subtitle";s:28:"An eighteen course dinner...";s:7:"summary";s:784:"Here's the third episode of Jimbalaya's Podcast. Tonight's menu brings ingredients from around the globe.

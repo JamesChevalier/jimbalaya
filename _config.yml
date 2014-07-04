@@ -1,9 +1,9 @@
-# baseurl: http://jimbalaya.us
+# baseurl: http://www.jimbalaya.us
 exclude: [Gemfile, Gemfile.lock, Rakefile, README.md]
 markdown: kramdown
 permalink: /:title
 highlighter: pygments
-url: http://jimbalaya.us
+url: http://www.jimbalaya.us
 name: Jimbalaya
 description: >
   I cut music up into pieces, and then I

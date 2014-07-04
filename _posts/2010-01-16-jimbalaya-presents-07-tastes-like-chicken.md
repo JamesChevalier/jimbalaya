@@ -5,7 +5,7 @@ layout: post
 permalink: /podcast/jimbalaya-presents-07-tastes-like-chicken/
 homepageenclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_07_-_Tastes_Like_Chicken.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_07_-_Tastes_Like_Chicken.mp3
     116859174
     audio/mpeg
     a:4:{s:8:"duration";s:8:"01:00:44";s:8:"subtitle";s:21:"Careful, hot plate...";s:7:"summary";s:711:"Here's the seventh episode of Jimbalaya's Podcast. You call it chicken, we call it chicken, let's pretend it's chicken.

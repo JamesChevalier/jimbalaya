@@ -5,7 +5,7 @@ layout: post
 permalink: /podcast/jimbalaya-presents-02-the-got-up-and-went/
 homepageenclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_02_-_The_Got_Up_And_Went.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_02_-_The_Got_Up_And_Went.mp3
     51038407
     audio/mpeg
     a:4:{s:8:"duration";s:8:"00:32:37";s:8:"subtitle";s:36:"We have a fast-pased menu tonight...";s:7:"summary";s:1457:"Here's the second episode of Jimbalaya's Podcast; an upbeat mix that's perfect for chasing the bad guys, although I suppose you could dance to it as well...

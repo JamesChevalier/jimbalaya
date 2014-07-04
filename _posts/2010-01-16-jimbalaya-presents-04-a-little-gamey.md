@@ -5,7 +5,7 @@ layout: post
 permalink: /podcast/jimbalaya-presents-04-a-little-gamey/
 homepageenclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_04_-_A_Little_Gamey.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_04_-_A_Little_Gamey.mp3
     115358700
     audio/mpeg
     a:4:{s:8:"duration";s:8:"00:59:58";s:8:"subtitle";s:31:"Careful with the steak knife...";s:7:"summary";s:828:"Here's the fourth episode of Jimbalaya's Podcast. Tonight's menu is definitely not roadkill.

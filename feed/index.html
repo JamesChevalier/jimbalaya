@@ -11,9 +11,9 @@
   >
 <channel>
   <title type="text" xml:lang="en">Jimbalaya</title>
-  <link>http://jimbalaya.us</link>
+  <link>http://www.jimbalaya.us</link>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://jimbalaya.us</id>
+  <id>http://www.jimbalaya.us</id>
   <author>
     <name>Jimbalaya</name>
   </author>
@@ -21,11 +21,11 @@
   {% for post in site.posts limit:20 %}
   <item>
     <title>{{ post.title }}</title>
-    <link>http://jimbalaya.us{{ post.url }}/</link>
+    <link>http://www.jimbalaya.us{{ post.url }}/</link>
 
     <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>http://jimbalaya.us{{ post.url }}/</id>
+    <id>http://www.jimbalaya.us{{ post.url }}/</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </item>
   {% endfor %}

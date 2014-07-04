@@ -19,13 +19,13 @@ I managed to get TWO of my creations into this mix, and I'm quite proud of them
 
 [Jimbalaya – Outroduction To Saturday][3] ... This one is all [Elton John][4] – [Saturday Night's Alright For Fighting][5].
 
- [3]: http://jimbalaya.us/wp-content/uploads/2011/06/Jimbalaya-Outroduction-To-Saturday.mp3
+ [3]: http://www.jimbalaya.us/wp-content/uploads/2011/06/Jimbalaya-Outroduction-To-Saturday.mp3
  [4]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=5573&RD_PARM1=http://itunes.apple.com/us/artist/elton-john/id54657
  [5]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=5573&RD_PARM1=http://itunes.apple.com/us/album/goodbye-yellow-brick-road/id45353
 
 [Jimbalaya – Tweaked Blow][6] ... This one is one part [UGK][7] – [Cocaine (Ft Rick Ross)][8] and one part [Eric Clapton][9] – [Cocaine][10].
 
- [6]: http://jimbalaya.us/wp-content/uploads/2011/06/Jimbalaya-Tweaked-Blow.mp3
+ [6]: http://www.jimbalaya.us/wp-content/uploads/2011/06/Jimbalaya-Tweaked-Blow.mp3
  [7]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=5573&RD_PARM1=http://itunes.apple.com/us/artist/ugk/id1491249
  [8]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=5573&RD_PARM1=http://itunes.apple.com/us/album/ugk-underground-kingz/id260747450
  [9]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=5573&RD_PARM1=http://itunes.apple.com/us/artist/eric-clapton/id123853

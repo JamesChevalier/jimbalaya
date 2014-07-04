@@ -16,14 +16,14 @@ Hey I'm [Jimbalaya](http://twitter.com/JamesChevalier). This site hosts all my a
 *   [Scribbles][9] – Short/Quickly put together edits; a bit like scribbles on a page
 *   [Thoughts][10] – Announcements, or blogish entries; we'll see what happens here
 
- [3]: http://jimbalaya.us/category/creations "Creations"
- [4]: http://jimbalaya.us/category/foundsounds "Found Sounds"
- [5]: http://jimbalaya.us/category/introductions "Introductions"
- [6]: http://jimbalaya.us/category/mixes "Mixes"
- [7]: http://jimbalaya.us/category/podcast "Podcast"
+ [3]: http://www.jimbalaya.us/category/creations "Creations"
+ [4]: http://www.jimbalaya.us/category/foundsounds "Found Sounds"
+ [5]: http://www.jimbalaya.us/category/introductions "Introductions"
+ [6]: http://www.jimbalaya.us/category/mixes "Mixes"
+ [7]: http://www.jimbalaya.us/category/podcast "Podcast"
  [8]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=301986746 "Jimbalaya Presents"
- [9]: http://jimbalaya.us/category/scribbles "Scribbles"
- [10]: http://jimbalaya.us/category/thoughts "Thoughts"
+ [9]: http://www.jimbalaya.us/category/scribbles "Scribbles"
+ [10]: http://www.jimbalaya.us/category/thoughts "Thoughts"
 
 ## Links
 

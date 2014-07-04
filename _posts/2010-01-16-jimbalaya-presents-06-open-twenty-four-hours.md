@@ -5,7 +5,7 @@ layout: post
 permalink: /podcast/jimbalaya-presents-06-open-twenty-four-hours/
 homepageenclosure:
   - |
-    http://jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_06_-_Open_Twenty_Four_Hours.mp3
+    http://www.jimbalaya.us/audio/podcasts/Jimbalaya_Presents_-_06_-_Open_Twenty_Four_Hours.mp3
     119080209
     audio/mpeg
     a:4:{s:8:"duration";s:8:"01:01:54";s:8:"subtitle";s:35:"Take your time, you have all day...";s:7:"summary";s:857:"Here's the sixth episode of Jimbalaya's Podcast. The theme tonight is one full day.  To celebrate, we will be open twenty four hours.
