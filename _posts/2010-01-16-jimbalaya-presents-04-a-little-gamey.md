@@ -59,32 +59,32 @@ Here's the fourth episode of Jimbalaya's Podcast. Tonight's menu is definitely n
 18. [Red Snapper][36] – [Dnipro][37]
 19. [Psapp][38] – [Curuncula][39]
 
- [3]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fquantic%2Fid5054367%3Fuo%3D6%26partnerId%3D30
+ [3]: http://itunes.apple.com/us/artist/quantic/id5054367%3Fuo%3D6%26partnerId%3D30
  [4]: http://www.last.fm/music/Quantic presenta Flowering Inferno/_/Death Of The Revolution "Death Of The Revolution"
- [5]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Faesop-rock%2Fid3858833%3Fuo%3D6%26partnerId%3D30
+ [5]: http://itunes.apple.com/us/artist/aesop-rock/id3858833%3Fuo%3D6%26partnerId%3D30
  [6]: http://www.last.fm/music/Aesop Rock/None Shall Pass/None Shall Pass "None Shall Pass"
- [7]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Frjd2%2Fid7230053%3Fuo%3D6%26partnerId%3D30
+ [7]: http://itunes.apple.com/us/artist/rjd2/id7230053%3Fuo%3D6%26partnerId%3D30
  [8]: http://www.last.fm/music/RJD2/_/Iced Lightning "Iced Lightning"
- [9]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Faim%2Fid329048602%3Fuo%3D6%26partnerId%3D30
+ [9]: http://itunes.apple.com/us/artist/aim/id329048602%3Fuo%3D6%26partnerId%3D30
  [10]: http://www.last.fm/music/Aim/_/Downstate "Downstate"
- [11]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fmr-scruff%2Fid2236724%3Fuo%3D6%26partnerId%3D30
+ [11]: http://itunes.apple.com/us/artist/mr-scruff/id2236724%3Fuo%3D6%26partnerId%3D30
  [12]: http://www.last.fm/music/Mr. Scruff/_/Get a Move On "Get A Move On"
- [13]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fthunderball%2Fid193518023%3Fuo%3D6%26partnerId%3D30
- [14]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fthe-dining-rooms%2Fid5184744%3Fuo%3D6%26partnerId%3D30
+ [13]: http://itunes.apple.com/us/artist/thunderball/id193518023%3Fuo%3D6%26partnerId%3D30
+ [14]: http://itunes.apple.com/us/artist/the-dining-rooms/id5184744%3Fuo%3D6%26partnerId%3D30
  [15]: http://www.last.fm/music/The Dining Rooms/_/Occhi Neri "Occhi Neri"
- [16]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fthe-cinematic-orchestra%2Fid3631576%3Fuo%3D6%26partnerId%3D30
+ [16]: http://itunes.apple.com/us/artist/the-cinematic-orchestra/id3631576%3Fuo%3D6%26partnerId%3D30
  [17]: http://www.last.fm/music/The Cinematic Orchestra/_/All That You Give (Dr. Rockit Remix) "All That You Give (Dr Rockit Remix)"
- [18]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fcaribou%2Fid45464574%3Fuo%3D6%26partnerId%3D30
+ [18]: http://itunes.apple.com/us/artist/caribou/id45464574%3Fuo%3D6%26partnerId%3D30
  [19]: http://www.last.fm/music/Caribou/_/Dundas, Ontario (Remix) "Dundas, Ontario (Remix)"
- [20]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Ftalking-heads%2Fid155546%3Fuo%3D6%26partnerId%3D30
+ [20]: http://itunes.apple.com/us/artist/talking-heads/id155546%3Fuo%3D6%26partnerId%3D30
  [21]: http://www.last.fm/music/Talking Heads/_/This Must Be the Place (Naive Melody) "This Must Be The Place (Naive Melody)"
  [22]: http://www.discogs.com/artist/Businessman "Business Man"
  [23]: http://www.last.fm/music/Business Man/_/Dubby Games "Dubby Games"
- [24]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fhint%2Fid3637646%3Fuo%3D6%26partnerId%3D30
+ [24]: http://itunes.apple.com/us/artist/hint/id3637646%3Fuo%3D6%26partnerId%3D30
  [25]: http://www.last.fm/music/Hint/_/Keep Your Shirt On (Feat. Laura Vane) "Keep Your Shirt On (Feat Laura Vane)"
- [26]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Ftv-on-the-radio%2Fid6562624%3Fuo%3D6%26partnerId%3D30
+ [26]: http://itunes.apple.com/us/artist/tv-on-the-radio/id6562624%3Fuo%3D6%26partnerId%3D30
  [27]: http://www.last.fm/music/TV on the Radio/_/Crying "Crying"
- [28]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fflying-lotus%2Fid120737020%3Fuo%3D6%26partnerId%3D30
+ [28]: http://itunes.apple.com/us/artist/flying-lotus/id120737020%3Fuo%3D6%26partnerId%3D30
  [29]: http://www.last.fm/music/Flying Lotus/_/Parisian Goldfish "Parisian Goldfish"
  [30]: http://www.discogs.com/artist/AMP Live "Amplive"
  [31]: http://www.last.fm/music/Amplive/_/Weird Fishez "Weird Fishez"

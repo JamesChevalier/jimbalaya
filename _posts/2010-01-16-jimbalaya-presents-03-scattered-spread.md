@@ -57,21 +57,21 @@ Here's the third episode of Jimbalaya's Podcast. Tonight's menu brings ingredien
 17. [Nightmares On Wax][17] – Know My Name (Mark Pritchard Mix)
 18. Go Home Productions – Goodbye Rocky
 
- [3]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Ftoots-the-maytals%2Fid2379983%3Fuo%3D6%26partnerId%3D30
- [4]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fbuju-banton%2Fid416192%3Fuo%3D6%26partnerId%3D30
- [5]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fjunior-kelly%2Fid2944191%3Fuo%3D6%26partnerId%3D30
- [6]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fbilly-preston%2Fid363575%3Fuo%3D6%26partnerId%3D30
- [7]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fred-snapper%2Fid2989873%3Fuo%3D6%26partnerId%3D30
- [8]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fquantic%2Fid5054367%3Fuo%3D6%26partnerId%3D30
- [9]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fcommon%2Fid64490%3Fuo%3D6%26partnerId%3D30
- [10]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Ftosca%2Fid3097712%3Fuo%3D6%26partnerId%3D30
- [11]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fnormal-position%2Fid131768222%3Fuo%3D6%26partnerId%3D30
- [12]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fthievery-corporation%2Fid2726532%3Fuo%3D6%26partnerId%3D30
- [13]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Ftalking-heads%2Fid155546%3Fuo%3D6%26partnerId%3D30
- [14]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fbonobo%2Fid3633058%3Fuo%3D6%26partnerId%3D30
- [15]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fthe-herbaliser%2Fid3626414%3Fuo%3D6%26partnerId%3D30
- [16]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fq-tip%2Fid13833%3Fuo%3D6%26partnerId%3D30
- [17]: http://click.linksynergy.com/fs-bin/stat?id=vwHUN9G4nyY&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fus%2Fartist%2Fnightmares-on-wax%2Fid39883158%3Fuo%3D6%26partnerId%3D30
+ [3]: http://itunes.apple.com/us/artist/toots-the-maytals/id2379983%3Fuo%3D6%26partnerId%3D30
+ [4]: http://itunes.apple.com/us/artist/buju-banton/id416192%3Fuo%3D6%26partnerId%3D30
+ [5]: http://itunes.apple.com/us/artist/junior-kelly/id2944191%3Fuo%3D6%26partnerId%3D30
+ [6]: http://itunes.apple.com/us/artist/billy-preston/id363575%3Fuo%3D6%26partnerId%3D30
+ [7]: http://itunes.apple.com/us/artist/red-snapper/id2989873%3Fuo%3D6%26partnerId%3D30
+ [8]: http://itunes.apple.com/us/artist/quantic/id5054367%3Fuo%3D6%26partnerId%3D30
+ [9]: http://itunes.apple.com/us/artist/common/id64490%3Fuo%3D6%26partnerId%3D30
+ [10]: http://itunes.apple.com/us/artist/tosca/id3097712%3Fuo%3D6%26partnerId%3D30
+ [11]: http://itunes.apple.com/us/artist/normal-position/id131768222%3Fuo%3D6%26partnerId%3D30
+ [12]: http://itunes.apple.com/us/artist/thievery-corporation/id2726532%3Fuo%3D6%26partnerId%3D30
+ [13]: http://itunes.apple.com/us/artist/talking-heads/id155546%3Fuo%3D6%26partnerId%3D30
+ [14]: http://itunes.apple.com/us/artist/bonobo/id3633058%3Fuo%3D6%26partnerId%3D30
+ [15]: http://itunes.apple.com/us/artist/the-herbaliser/id3626414%3Fuo%3D6%26partnerId%3D30
+ [16]: http://itunes.apple.com/us/artist/q-tip/id13833%3Fuo%3D6%26partnerId%3D30
+ [17]: http://itunes.apple.com/us/artist/nightmares-on-wax/id39883158%3Fuo%3D6%26partnerId%3D30
 
 Podcast: [Play in new window][18] | [Download][19]{: .radius .button}
 

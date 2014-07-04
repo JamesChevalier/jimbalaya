@@ -11,9 +11,9 @@ categories:
 
 This is [Mr Scruff][2] – [Fish][3] shoved into [The Beatles][4] – Octopus's Garden. Enjoy!
 
- [2]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=2236724 "Mr Scruff on iTunes"
- [3]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=312064056%26id=312063887%26s=143441 "Fish on iTunes"
- [4]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=136978%26id=136998%26s=143441 "The Beatles on iTunes"
+ [2]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=2236724 "Mr Scruff on iTunes"
+ [3]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=312064056%26id=312063887%26s=143441 "Fish on iTunes"
+ [4]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=136978%26id=136998%26s=143441 "The Beatles on iTunes"
 
 <p><audio src="/audio/creations/Jimbalaya-Pieces_Of_The_Wholes-04-Eating_Fish_In_The_Octopus'_Garden.mp3" preload='auto' /></p>
 

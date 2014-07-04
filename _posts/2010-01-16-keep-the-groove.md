@@ -13,8 +13,8 @@ And how could I forget my first contribution to a [King Megatrip][2] mix? The mi
 
  [2]: http://megatrip.blogspot.com/
  [3]: http://www.royalgroove.org/
- [4]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=994656 "Led Zeppelin on iTunes"
- [5]: http://click.linksynergy.com/fs-bin/click?id=vwHUN9G4nyY&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=266077952%26id=266077709%26s=143441 "The Lemon Song on iTunes"
+ [4]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=994656 "Led Zeppelin on iTunes"
+ [5]: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=266077952%26id=266077709%26s=143441 "The Lemon Song on iTunes"
 
 [Download][6]{: .radius .button}
 
